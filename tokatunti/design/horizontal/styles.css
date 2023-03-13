@@ -1,0 +1,24 @@
+.bordered {
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    background: yellow;
+    border-radius: 20px;
+}
+
+#reunat {
+    border: 3px solid blue;
+    padding: 10px;
+    margin: 50px;
+
+}
+
+.preuna {
+padding-top: 50px;
+}
+
+.kuva {
+    border: 3px solid black;
+    border-style: none;
+    background-repeat: repeat-;
+}

@@ -1,0 +1,32 @@
+body {
+    background: rgb(0, 0, 0);
+    text-align: left;
+}
+.red{
+    color: white;
+}
+
+
+
+header {
+    background:black;
+    color:white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 12px;
+    color: rgb(102, 201, 102);
+}
+
+.dotted {
+    border-spacing: 2px;
+    border-style: dotted;
+    height: 100px;
+    width: 100px;
+    color: white;
+}

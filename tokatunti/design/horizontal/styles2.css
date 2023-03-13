@@ -1,0 +1,21 @@
+body {
+    background: pink;
+    text-align: left;
+}
+
+h1 {
+    border-spacing: 4px;
+    border-style: double;
+}
+
+p {
+    background-color: white;
+    border-style: ridge;
+}
+
+header {
+    font-style: oblique;
+    font-size:xx-large;
+}
+
+
