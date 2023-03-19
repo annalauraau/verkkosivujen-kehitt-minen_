@@ -87,9 +87,11 @@ section {
 .nav {
         float: left;
         width: 30%;
-        height: 300px;
+        height: 200px;
         background: #eee2e2;
-    padding: 20px;
+        text-align: auto;
+        padding-bottom: 30px;
+       
 }
 
 
