@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styletable.css"></style>
+    <title>Annan lomake</title>
+    
+</head>
+
+<body>
+    <h1>Rekisteröidy </h1>
+    <form method="post" action="http://zaphod.cs.und.edu/cgi-bin/reflector.cgi">
+        <table>
+
+            <tr>
+                <td>etunimi
+                <td><input type="text" name="etunimi">
+            </tr>
+            <tr>
+                <td>sukunimi
+                <td><input type="text" name="sukunimi">
+            </tr>
+            <tr>
+                <td>sähköposti</td>
+                <td><input type="text" name="sähköposti"></td>
+            </tr>
+
+     
+
+
+        </table>
+        <p><label for="teksti">Kirjoita teksti tähän</label></p>
+        <textarea id="teksti" name="teksti" rows="4" cols="80">Voit kirjoittaa tähän </textarea>
+        <br>
+       
+
+<br>
+<br>
+        <input type="checkbox" id="koira" name="koira" value="Koira">
+        <label for="koira"> Minulla on koira</label><br>
+        <input type="checkbox" id="kissa" name="kissa" value="kissa">
+        <label for="kissa"> Minulla on kissa</label><br>
+        <input type="checkbox" id="pupu" name="pupu" value="pupu">
+        <label for="pupu"> Minulla on pupu</label><br>
+    </form>
+<br>
+    <tr>
+        <td><input type="Submit" value="Submit new user"></td>
+    </tr>
+
+
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(213, 238, 238);
+    text-align: left;
+    text-rendering:auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+border-radius: 5px;
+  }
